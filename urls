@@ -13,7 +13,7 @@ https://feeds2.feedburner.com/stadt-bremerhaven/dqXM tech
 https://www.zdnet.de/feed/ tech
 ----------
 Blogs
-https://lukesmith.xyz/rss.xml blog
+https://lukesmith.xyz/rss.xml "~Luke Smith" blog
 https://blog.fefe.de/rss.xml blog
 ----------
 Corona
@@ -22,3 +22,6 @@ https://www.rki.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_nCoV.xml
 Linux
 https://www.archlinux.org/feeds/news/ tech
 https://planet.ubuntuusers.de/feeds/full/100/
+----------
+Twitter
+https://nitter.net/Uni_Wuppertal/rss
