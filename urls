@@ -12,6 +12,11 @@ https://www.heise.de/rss/heise-atom.xml tech
 https://feeds2.feedburner.com/stadt-bremerhaven/dqXM tech
 https://www.zdnet.de/feed/ tech
 ----------
+Zeitungen/Zeitschriften
+https://www.stern.de/feed/standard/all/ "~Stern.de" zeitschrift
+https://www.spiegel.de/schlagzeilen/index.rss "~Spiegel.de" zeitschrift
+https://rss.sueddeutsche.de/app/service/rss/alles/index.rss?output=rss "~Süddeutsche.de" zeitschrift
+----------
 Blogs
 https://lukesmith.xyz/rss.xml "~Luke Smith" blog
 https://blog.fefe.de/rss.xml blog
