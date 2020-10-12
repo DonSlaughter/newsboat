@@ -1,6 +1,7 @@
 Nachrichte
 https://www.tagesschau.de/xml/rss2 "~Tagesschau" news
 https://www.deutschlandfunk.de/die-nachrichten.353.de.rss "~Deutschlandfunk" news
+https://rp-online.de/nrw/staedte/remscheid/feed.rss news "~RP Remscheid"
 International
 http://feeds.bbci.co.uk/news/rss.xml news
 https://www.rt.com/rss/ news
@@ -8,7 +9,8 @@ https://www.rt.com/rss/ news
 PC-News
 https://www.computerbase.de/rss/news.xml tech
 https://rss.golem.de/rss.php?feed=RSS2.0 tech
-https://www.heise.de/rss/heise-atom.xml tech
+https://www.heise.de/rss/heise-atom.xml tech "~heise online"
+https://www.heise.de/make/rss/hardware-hacks-atom.xml tech "~heise Make"
 https://feeds2.feedburner.com/stadt-bremerhaven/dqXM tech
 https://www.zdnet.de/feed/ tech
 ----------
@@ -29,4 +31,7 @@ https://www.archlinux.org/feeds/news/ tech
 https://planet.ubuntuusers.de/feeds/full/100/
 ----------
 Twitter
-https://nitter.net/Uni_Wuppertal/rss
+https://nitter.net/devtal/rss "~/dev/tal" twitter
+https://nitter.net/Uni_Wuppertal/rss "~BUW" twitter
+https://nitter.net/Senficon/rss "~Julia Reda" twitter politic
+https://nitter.net/realDonaldTrump/rss "~Donald Trump" twitter politic
