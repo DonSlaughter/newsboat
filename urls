@@ -2,6 +2,8 @@ Nachrichte
 https://www.tagesschau.de/xml/rss2 "~Tagesschau" news
 https://www.deutschlandfunk.de/die-nachrichten.353.de.rss "~Deutschlandfunk" news
 https://rp-online.de/nrw/staedte/remscheid/feed.rss news "~RP Remscheid"
+http://www.rga.de/lokales/remscheid/rssfeed.xml "~RGA"
+http://www.solinger-tageblatt.de/solingen/rssfeed.xml "~Solinger TB"
 International
 http://feeds.bbci.co.uk/news/rss.xml news
 https://www.rt.com/rss/ news
@@ -23,6 +25,8 @@ Blogs
 https://lukesmith.xyz/rss.xml "~Luke Smith" blog
 https://blog.fefe.de/rss.xml blog
 ----------
+Bundesministerien
+www.bundesgesundheitsministerium.de/rss.html "~Bundesministerium für Gesundheit"
 Corona
 https://www.rki.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_nCoV.xml
 ----------
