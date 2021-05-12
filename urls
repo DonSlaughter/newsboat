@@ -1,10 +1,6 @@
 Nachrichte
 https://www.tagesschau.de/xml/rss2 "~Tagesschau" news
 https://www.deutschlandfunk.de/die-nachrichten.353.de.rss "~Deutschlandfunk" news
-https://rp-online.de/nrw/staedte/remscheid/feed.rss news "~RP Remscheid"
-http://www.rga.de/lokales/remscheid/rssfeed.xml "~RGA"
-http://www.solinger-tageblatt.de/solingen/rssfeed.xml "~Solinger TB"
-International
 http://feeds.bbci.co.uk/news/rss.xml news
 https://www.rt.com/rss/ news
 ----------
@@ -15,11 +11,6 @@ https://www.heise.de/rss/heise-atom.xml tech "~heise online"
 https://www.heise.de/make/rss/hardware-hacks-atom.xml tech "~heise Make"
 https://feeds2.feedburner.com/stadt-bremerhaven/dqXM tech
 https://www.zdnet.de/feed/ tech
-----------
-Zeitungen/Zeitschriften
-https://www.stern.de/feed/standard/all/ "~Stern.de" zeitschrift
-https://www.spiegel.de/schlagzeilen/index.rss "~Spiegel.de" zeitschrift
-https://rss.sueddeutsche.de/app/service/rss/alles/index.rss?output=rss "~Süddeutsche.de" zeitschrift
 ----------
 Blogs
 https://lukesmith.xyz/rss.xml "~Luke Smith" blog
@@ -32,11 +23,8 @@ Linux
 https://www.archlinux.org/feeds/news/ tech
 https://planet.ubuntuusers.de/feeds/full/100/
 ----------
-Twitter
-https://nitter.net/devtal/rss "~/dev/tal" twitter
-https://nitter.net/chaosupdates/rss "~CCC updates" twitter
-https://nitter.net/drguidoknapp/rss "~Verrückte Geschichte" twitter
-https://nitter.net/Uni_Wuppertal/rss "~BUW" twitter
-https://nitter.net/Senficon/rss "~Julia Reda" twitter politic
-https://nitter.net/rosorg/rss "~ROS" twitter robotics
-https://nitter.net/OpenRoboticsOrg/rss "~Open Robotics" twitter robotics
+GitHub
+https://github.com/orbbec/ros_astra_camera/commits/master.atom "~orbbec astra github" github
+https://github.com/ROBOTIS-GIT/DynamixelSDK/commits/master.atom "~dynamixel SDK github" github
+https://github.com/ROBOTIS-GIT/dynamixel-workbench/commits/master.atom "~dynamixel workbench" github
+https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs/commits/master.atom "~dynamixel workbench msgs" github
